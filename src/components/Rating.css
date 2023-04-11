@@ -1,0 +1,7 @@
+.rating-star {
+  color: slategray;
+}
+
+.rating-star.selected {
+  color: yellowgreen;
+}
